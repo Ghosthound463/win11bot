@@ -22,7 +22,7 @@ First make sure they accept iframe, you can check by inserting the url in this [
 #### 2. Make a pull request by manually editing the store.json file
 
 Read the schema below before adding any game/app element in the store file
-```js
+```json
 {
     "name": "Minecraft", // unique name (check if it has been used already in the file)
     "icon": "https://example.com/minecraft.png", // logo image, preferrably 1:1 and less than 128px of width
@@ -41,8 +41,10 @@ Read the schema below before adding any game/app element in the store file
     }
   }
 ```
+### PLEASE REMOVE THE COMMENTS FROM YOUR JSON, BEFORE MAKING A PR
+**Comments look like this: `// example text`**
 
-add your game/app in the file (don't beautify the code, just add your game/app object) and make a pull request to get accepted.
+Add your game/app in the file (don't beautify the code, just add your game/app object) and make a pull request to get accepted.
 
 # STOP SUGGESTING ANDROID GAMES
 
