@@ -47,19 +47,19 @@
     }
   },
   {
-    "name": "Google Cricket", // unique name (check if it has been used already in the file)
-    "icon": "https://www.businessinsider.in/photo/75425726/how-to-play-cricket-on-google.jpg?imgsize=138543", // logo image, preferrably 1:1 and less than 128px of width
-    "type": "app", // game or app
+    "name": "Google Cricket",
+    "icon": "https://www.businessinsider.in/photo/75425726/how-to-play-cricket-on-google.jpg?imgsize=138543",
+    "type": "app",
     "data": {
-      "type": "IFrame", // type currently supports IFrame only
-      "url": "https://doodlecricket.github.io/#/", // url of the app and make sure they accept Iframe
-      "gallery": [ // three or more images for gallery view in store app
+      "type": "IFrame",
+      "url": "https://doodlecricket.github.io/#/",
+      "gallery": [
         "https://www.businessinsider.in/photo/75425726/how-to-play-cricket-on-google.jpg?imgsize=138543",
         "https://www.google.com/logos/doodles/2017/icc-champions-trophy-2017-begins-5642111205507072.6-lawcta.gif",
         "https://i.ytimg.com/vi/Ud9Ts_NYAjQ/maxresdefault.jpg"
       ],
-      "desc": "Playing Cricket in online", // description for store app
-      "feat": "virtual cricket" // features for store app
+      "desc": "Playing Cricket in online",
+      "feat": "virtual cricket"
       
     }
   },
