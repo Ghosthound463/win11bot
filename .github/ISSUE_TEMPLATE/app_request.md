@@ -5,20 +5,15 @@ title: ''
 labels: 'app-request'
 assignees: 'andrewstech'
 
----
+---Tiktok
 
 **APP OR GAME NAME**
-
-- 
-
+Tiktok
 **APP OR GAME**
 
-- [ ] APP
-- [ ] GAME
+- [ y] APP
+- [n ] GAME
 
 **APP/GAME URL**
-
--
-
-**DESCRIPTION**
+com.zhiliaoapp.musically_v22.9.4-2022209040_Android-4.4 (1).apk**DESCRIPTION**
 
